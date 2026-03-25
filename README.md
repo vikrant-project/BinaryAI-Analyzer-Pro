@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ BinaryAI Analyzer Pro v2.0
 > **The ultimate AI-driven companion for Android Reverse Engineering & Anti-Cheat Research.**
 
