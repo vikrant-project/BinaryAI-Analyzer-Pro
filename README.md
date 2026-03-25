@@ -90,5 +90,3 @@ Every analysis displays a sleek loading bar and professional "Processing" header
 ---
 **Disclaimer:** This tool is for educational and research purposes only. The developers are not responsible for any misuse.
 ```
-
----
