@@ -46,11 +46,11 @@ OWNER_ID = user-id-here
 TELEGRAM_BOT_TOKEN = "bot-token"
 
 # AI API Configuration - Multiple fallback options
-DEEPSEEK_API_KEY = "sk-ef16c698d1af41aa8ac0f55e3cfa342d"
+DEEPSEEK_API_KEY = "sk-key-here"
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
 DEEPSEEK_MODEL = "deepseek-chat"
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "sk-key-here"
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1"
 
 # Models (aligned with req.py)
